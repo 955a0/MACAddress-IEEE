@@ -3,7 +3,7 @@ name: Update MAC DB CSV
 
 on:
   schedule:
-    - cron: '0 2 1 * *'  # 毎月1日 午前2時(UTC)
+    - cron: '0 19 * * *'  # 毎日 19時(UTC)/04時（JST）
   workflow_dispatch:       # 手動実行可
 
 jobs:
