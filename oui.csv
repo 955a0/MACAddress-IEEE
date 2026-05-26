@@ -1704,7 +1704,6 @@ MA-L,D8BC59,"Shenzhen DAPU Microelectronics Co., Ltd","Room B 503, No.2 Building
 MA-L,8C79F5,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,246F28,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,00122A,VTech Telecommunications Ltd.,"23/F, Tai Ping Industrial Centre, Block 1  NA  HK 00000 "
-MA-L,000422,"Studio Technologies, Inc",7440 Frontage Rd Skokie IL US  60077-3212 
 MA-L,80DA13,eero inc.,660 3rd Street San Francisco CA US 94107 
 MA-L,48F8DB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,C08ACD,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
@@ -7964,6 +7963,8 @@ MA-L,D05533,Palo Alto Networks,3000 Tannery Way Santa Clara CA US 95054
 MA-L,1CE587,Cisco Meraki,500 Terry A. Francois Blvd San Francisco  US 94158 
 MA-L,B83446,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,C4AA43,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,000422,"Studio Technologies, Inc.",7440 Frontage Rd Skokie IL US  60077-3212 
+MA-L,0C5141,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -15789,6 +15790,7 @@ MA-L,44995B,GX India Pvt Ltd,"595, SECTOR-8, IMT MANESAR GURGAON Haryana IN 1220
 MA-L,780C26,Trafag AG,Industriestrasse 11 Bubikon Zuerich CH 8608 
 MA-L,0430FA,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,F45BB4,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,241F49,NXP Semiconductors Taiwan Ltd.,"No. 10, Jing 5th Rd., Nanzi Dist., Kaohsiung City 811643, Taiwan Nanzi Dist. Kaohsiung TW 811643 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23628,14 +23630,14 @@ MA-L,A087BE,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,34F8DD,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,7CD62C,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,6C688A,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
-MA-L,AC236E,Apismoon Electric Pte. Ltd.,"Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG SINGAPORE  SG 533757 "
-MA-L,FC1119,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
-MA-L,0003CA,"Temposonics, LLC","3001 Sheldon Drive Cary, NC US 27513 "
-MA-L,7CA05E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
-MA-L,30FD34,COMMANDO Networks Pvt Ltd.,Millennium Business Park - IT Park Navi Mumbai MH IN 400710 
 MA-L,940F3B,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
 MA-L,6C92F6,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,7CA05E,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,AC236E,Apismoon Electric Pte. Ltd.,"Blk 6, #04-24, JTC DEFU INDUSTRIAL CITY, DEFU SOUTH STREET 1, SINGAPORE 533757, SG SINGAPORE  SG 533757 "
+MA-L,30FD34,COMMANDO Networks Pvt Ltd.,Millennium Business Park - IT Park Navi Mumbai MH IN 400710 
+MA-L,FC1119,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,F0C71F,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
+MA-L,0003CA,"Temposonics, LLC","3001 Sheldon Drive Cary, NC US 27513 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -39463,3 +39465,4 @@ MA-L,00901D,Gallagher Group Limited,181 Kahikatea Drive Hamilton  NZ 3206
 MA-L,00C096,Tamu Radiance Corporation,"Ebisu, Shibuya-ku, Tokyo Tokyo  JP - "
 MA-L,04B3C9,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
 MA-L,84DD84,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
+MA-L,A02490,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
