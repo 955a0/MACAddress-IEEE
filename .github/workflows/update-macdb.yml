@@ -17,11 +17,11 @@ jobs:
       - name: Download IEEE CSV files
         run: |
           curl --parallel --parallel-immediate \
-            -O https://standards-oui.ieee.org/oui/oui.csv \
-            -O https://standards-oui.ieee.org/oui28/mam.csv \
-            -O https://standards-oui.ieee.org/oui36/oui36.csv \
-            -O https://standards-oui.ieee.org/cid/cid.csv \
-            -O https://standards-oui.ieee.org/iab/iab.csv
+            -O http://standards-oui.ieee.org/oui/oui.csv \
+            -O http://standards-oui.ieee.org/oui28/mam.csv \
+            -O http://standards-oui.ieee.org/oui36/oui36.csv \
+            -O http://standards-oui.ieee.org/cid/cid.csv \
+            -O http://standards-oui.ieee.org/iab/iab.csv
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
