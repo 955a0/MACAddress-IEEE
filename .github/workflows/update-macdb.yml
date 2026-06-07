@@ -16,7 +16,7 @@ jobs:
 
       - name: Download IEEE CSV files
         run: |
-          curl --parallel --parallel-immediate \
+          curl --retry 3 --retry-delay 10 \
             -O http://standards-oui.ieee.org/oui/oui.csv \
             -O http://standards-oui.ieee.org/oui28/mam.csv \
             -O http://standards-oui.ieee.org/oui36/oui36.csv \
